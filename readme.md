@@ -1,5 +1,5 @@
 edit to pull
-# About Me
+# About Author
 
 Hello! My name is Rega, and I am currently a student at RevoU, where I am diving deep into the world of fullstack development. 
 
